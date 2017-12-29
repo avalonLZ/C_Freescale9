@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>DMA_OV7620/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>204</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25115-1596</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>DMA_OV7620</ExpandedNode><ExpandedNode>DMA_OV7620/Output</ExpandedNode><ExpandedNode>DMA_OV7620/app</ExpandedNode><ExpandedNode>DMA_OV7620/common</ExpandedNode><ExpandedNode>DMA_OV7620/cpu</ExpandedNode><ExpandedNode>DMA_OV7620/drivers</ExpandedNode><ExpandedNode>DMA_OV7620/header</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8616-1700</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-10833-2478</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Roadtype.c</Filename><XPos>0</XPos><YPos>183</YPos><SelStart>344</SelStart><SelEnd>344</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_dma_demo\isr.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>2417</SelStart><SelEnd>2417</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\qipao.c</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>637</SelStart><SelEnd>637</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\gpio\gpio.c</Filename><XPos>0</XPos><YPos>114</YPos><SelStart>1725</SelStart><SelEnd>1725</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\FTM\FTM.c</Filename><XPos>0</XPos><YPos>198</YPos><SelStart>3920</SelStart><SelEnd>3928</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\fire_drivers_cfg.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1213</SelStart><SelEnd>1213</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\common\common.h</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\gpio\gpio.h</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>920</SelStart><SelEnd>920</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\delay\delay.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>392</SelStart><SelEnd>411</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\PIT\PIT.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1731</SelStart><SelEnd>1731</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\start.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1492</SelStart><SelEnd>1492</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\mcg\mcg.c</Filename><XPos>0</XPos><YPos>159</YPos><SelStart>429</SelStart><SelEnd>429</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\lptmr\lptmr.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\LED\LED.C</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\hardware.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>162</SelStart><SelEnd>162</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\exti\exti.c</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\dma\dma.c</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\cpu\vectors.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\adc\adc.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\PID.c</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>1630</SelStart><SelEnd>1630</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\control.c</Filename><XPos>0</XPos><YPos>147</YPos><SelStart>990</SelStart><SelEnd>990</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\adc\adc_cfg.h</Filename><XPos>0</XPos><YPos>280</YPos><SelStart>8528</SelStart><SelEnd>8532</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\drivers\adc\adc.h</Filename><XPos>0</XPos><YPos>46</YPos><SelStart>2354</SelStart><SelEnd>2354</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\direction.c</Filename><XPos>0</XPos><YPos>150</YPos><SelStart>5084</SelStart><SelEnd>5084</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sxt.c</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>4343</SelStart><SelEnd>4343</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_dma_demo\isr.c</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>2741</SelStart><SelEnd>2753</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\projects\fire_dma_demo\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>89</SelStart><SelEnd>89</SelEnd></Tab><ActiveTab>26</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00c10dc0><key>iaridepm.enu1</key></Toolbar-00c10dc0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>578</Bottom><Right>295</Right><x>-2</x><y>-2</y><xscreen>28</xscreen><yscreen>32</yscreen><sizeHorzCX>20498</sizeHorzCX><sizeHorzCY>45977</sizeHorzCY><sizeVertCX>217423</sizeVertCX><sizeVertCY>833333</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>73</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>75</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>107759</sizeHorzCY><sizeVertCX>20498</sizeVertCX><sizeVertCY>45977</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
